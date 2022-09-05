@@ -5,7 +5,6 @@ In this project, you'll add some style to the project you created in `html-inter
 ## Instructions
 
 * Start off by forking this repository
-* Set up GitHub pages just like the last assignment
 * Add a new file called `styles.css`
 * Go to your HTML and add a line of code to import your new CSS file
 * Finally, edit `styles.css` to style the page in the following ways
@@ -15,6 +14,7 @@ In this project, you'll add some style to the project you created in `html-inter
   * Add `25px` of padding to each `<div>` element
   * Add `10px` of margin to each `<li>` element
   * Italicize each `<li>` element
+* Submit in Populi using CodeGrade
   
 ## Stretch goals
 
