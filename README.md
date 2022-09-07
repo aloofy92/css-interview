@@ -17,8 +17,8 @@ In this project, you'll add some style to the project you created in `html-inter
 * Add your styles file to your 'html-interview' on github
 * If you have connected to CodeGrade for your html-interview assignment, you are done!
   
-## Stretch goals
-
+## Stretch goals (Optional!)
+Stretch goals won't get you any extra points but are a fun way to get some practice with either testing your logic or looking things up that we haven't covered and trying to implement them yourselves.  
 * Add a shadow to each `<div>`
 * Add a background-color to each `<div>`
 * Add a background-image to the whole page
