@@ -15,7 +15,7 @@ In this project, you'll add some style to the project you created in `html-inter
   * Add `10px` of margin to each `<li>` element
   * Italicize each `<li>` element
 * Add your styles file to your 'html-interview' on github
-* Submit in Populi using CodeGrade under 'CSS Interview'
+* If you have connected to CodeGrade for your html-interview assignment, you are done!
   
 ## Stretch goals
 
